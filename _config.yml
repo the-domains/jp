@@ -1,0 +1,14 @@
+layout_spectrum: 0.08422939
+color:
+  saturation: 0.6080168
+  lightness: 0.08358651
+  brandStrength: 0.5
+  brandColors:
+    - '#0E0D0C'
+    - '#FFFFFF'
+    - '#918777'
+    - '#C5BCAC'
+    - '#C59C16'
+  rhythmicContrast: 0.1126319
+typography_spectrum: 0.2901883
+name: JP
